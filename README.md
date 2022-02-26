@@ -8,10 +8,11 @@ Take notes, save them, delete them, and use them whenever/wherever via a deploye
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Deployed](#Deployed)
-* [Screenshots](#Screenshots)
+* [DeployedSite](#deployedsite)
+* [Screenshots](#screenshots)
+* [Repo](#repo)
 * [Questions](#questions)
-* [Repo](#Repo)
+
 
 ## Installation
 The following necessary dependencies must be installed to run the application properly:
@@ -30,12 +31,14 @@ The application uses the MIT license.
 ## Contributing
 Fork if you would like to contribute
 
-## Deployed Site
+## DeployedSite
 https://fierce-sierra-45591.herokuapp.com/
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/50533231/155854037-41030337-60b0-429a-b42f-3a61e519389c.png)
 
-# Repo
+## Repo
+https://github.com/hankhint/miniature-eureka
 
 ## Questions
 Send questions or comments to hankhint@gmail.com and find me on github https://github.com/hankhint
