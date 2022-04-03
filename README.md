@@ -27,12 +27,8 @@ click the + button to add a new note, once you start typing a save icon will app
 The application uses the MIT license.
 ![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
   
-
 ## Contributing
 Fork if you would like to contribute
-
-## DeployedSite
-https://fierce-sierra-45591.herokuapp.com/
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/50533231/155854037-41030337-60b0-429a-b42f-3a61e519389c.png)
